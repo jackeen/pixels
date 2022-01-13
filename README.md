@@ -1,4 +1,3 @@
-webplayer
+Pixel web game for practice
 =========
 
-The player based on HTML5 for online user.
